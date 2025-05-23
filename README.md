@@ -1,0 +1,1 @@
+This repo was created after studying the lesson given at freeCodeCamp (https://www.youtube.com/watch?v=jGg_1h0qzaM&t=7496s) on AI agents building. I learned how to use LangChain to create graphs and AI agents and am excited to create agents for the companies that I partner with.
